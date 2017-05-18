@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>me.xjoy.ueditor</groupId>
+	<groupId>com.github.qiuxiaoj</groupId>
 	<artifactId>ueditor</artifactId>
 	<version>1.1.1</version>
-	<name>Baidu UEditor Extend</name>
+	<name>${project.groupId}:${project.artifactId}</name>
 	<description>UEditor extend for Spring mvc</description>
 	<url>https://github.com/qiuxiaoj/ueditor</url>
 
