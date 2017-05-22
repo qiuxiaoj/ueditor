@@ -98,6 +98,7 @@
 							<useReleaseProfile>false</useReleaseProfile>
 							<releaseProfiles>release</releaseProfiles>
 							<goals>deploy</goals>
+							<arguments>-Dgpg.passphrase=${gpg.passphrase}</arguments>
 						</configuration>
 					</plugin>
 					<plugin>
